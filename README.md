@@ -2,4 +2,4 @@
 
 ### Some Tech thingy
 * Tell me what I need to know
-* You know what, let's get into rabbit hole with this
+* You know what, let's get into a rabbit hole with this
